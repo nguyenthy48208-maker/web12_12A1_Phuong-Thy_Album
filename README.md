@@ -1,6 +1,10 @@
+
 "# web12_12A1_Phuong-Thy_Album" 
-chủ đề: Album "Giữa Một Vạn Người"
+
+Chủ đề: Album "Giữa Một Vạn Người"
+
 Thành viên: Nguyễn Vương Bảo Thy, Nguyễn Khánh Phương
+
 Phân công:
 11/11/2025 
 - Phương: nghiên cứu tiêu chí, tìm AI phù hợp, thử nghiệm các code dựa trên video tham khảo
@@ -19,16 +23,12 @@ Phương, Thy: Hoàn thành giai đoạn cuối và chỉnh sửa giao diện we
 - Phương: kiểm tra lại giao diện, đảm bảo mọi
 - Thy: hoàn thành file báo cáo
 ⇒ nộp bài
+
 Cách chạy:
 Nav bar: khi nhấn vào tự dẫn đến các phần chính: 
-Hero Section: hiển thị video và tiêu đề
-About: 
-Games: 
-Contact: 
-
-  
-  
-  
-
-
-
+Hero Section: hiển thị tiêu đề
+Bài hát: thể hiện 12 bài hát của album
+Lời bình: nhận xét từ người nghe
+Xem trước: hiển thị video xem trước khi bấm vào 1 bài hát 
+Release Party: thông tin show trực tiếp
+Contact: thông tin liên hệ
